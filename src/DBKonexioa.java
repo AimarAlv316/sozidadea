@@ -11,3 +11,4 @@ public class DBKonexioa {
         return DriverManager.getConnection(URL, erabiltzailea, pasahitza);
     }
 }
+.
